@@ -31,4 +31,3 @@ b)Sout{kliknij przycisk zaloguj}
 -----------------------------------------
 You are logged in!
 
-Hello world

@@ -32,5 +32,3 @@ b)Sout{kliknij przycisk zaloguj}
 You are logged in!
 
 1 row added
-2 row added
-3 row added

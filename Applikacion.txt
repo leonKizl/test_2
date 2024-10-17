@@ -27,4 +27,6 @@ b)Sout{kliknij przycisk zaloguj}
 
 5. Przypomnij haslo
     Sout{kliknij przycisk zaloguj}
+-----------------------------------------
+You are logged in!
 

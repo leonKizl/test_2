@@ -7,3 +7,6 @@ git commit -a -m "kjjlk"
 git revert id
 git reset id
 git branch -d
+
+git fetch origin master
+git push -u origin name
